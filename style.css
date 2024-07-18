@@ -18,6 +18,9 @@ header {
 main {
     background-color: palegoldenrod;
     padding: 10px;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: auto;
 }
 p {
     padding: 10px;
