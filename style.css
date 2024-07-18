@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: gold;
+    padding: 10px;
+}
+main {
+    background-color: palegoldenrod;
+    padding: 10px;
+}
+p {
+    padding: 10px;
+}
+footer {
+    background-color: lemonchiffon;
+    padding: 10px;
+}
