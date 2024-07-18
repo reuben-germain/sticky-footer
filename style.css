@@ -5,6 +5,7 @@
 body {
     display: flex;
     flex-direction: column;
+    border: 5px solid red;
 }
 header {
     background-color: gold;
