@@ -5,6 +5,7 @@
 }
 body {
     display: grid;
+    border: 5px solid red;
 }
 header {
     background-color: gold;
