@@ -9,7 +9,6 @@ html, body {
 }
 body {
     display: grid;
-    border: 5px solid red;
     grid-template-rows: auto 1fr auto;
 }
 header {
