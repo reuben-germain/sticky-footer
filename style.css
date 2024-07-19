@@ -3,6 +3,10 @@
     margin: 0;
     padding: 0;
 }
+html, body {
+    height: 100%;
+    /* height: 100vh; */
+}
 body {
     display: grid;
     border: 5px solid red;
