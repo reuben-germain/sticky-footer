@@ -9,7 +9,6 @@ html, body {
 body {
     display: flex;
     flex-direction: column;
-    border: 5px solid red;
 }
 header {
     background-color: gold;
@@ -21,6 +20,7 @@ main {
     flex-grow: 1;
     flex-shrink: 0;
     flex-basis: auto;
+    /* flex: 1 0 auto; */ /* shorthand */
 }
 p {
     padding: 10px;
